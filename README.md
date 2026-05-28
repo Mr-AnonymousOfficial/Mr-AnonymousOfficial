@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm MrAnonymous
 
-**FiveM Server Owner & Developer | Discord Bot Engineer | Lua / JS / Node.js**
+**FiveM Server Owner & Developer | Lua / JS / Node.js**
 
-*I build custom game server systems, Discord bots, and backend tools — with a focus on clean, minimal solutions.*
+*I build custom game server systems, and backend tools — with a focus on clean, minimal solutions.*
 
 📍 Thessaloniki, Greece
 
@@ -26,7 +26,6 @@
 
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
 ![ESX](https://img.shields.io/badge/ESX_Framework-2C2D72?style=for-the-badge)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 **Databases**
 
@@ -44,7 +43,6 @@
 ## 🚀 What I Build
 
 - 🎮 **FiveM ESX Resources** — Society systems, armories, ban panels, jail systems, crafting, BlackMarket mechanics, event minigames, vehicle locks, motel systems & more
-- 🤖 **Discord Bots** (discord.js v14) — Ticket systems, invite tracking, Twitch live detection, role automation, slash & prefix commands
 - 🖥️ **NUI Frontends** — Custom in-game HUDs and menus in vanilla JS for FiveM
 - 🗄️ **Node.js / MySQL** backend tools — Staff archive apps, web dashboards, multi-user systems
 
@@ -54,8 +52,7 @@
 
 | Project | Description |
 |---|---|
-| 🏙️ **Dangerous RP** | Greek-language FiveM roleplay server (Dangerous City Reborn V2) — ESX-based, fully custom |
-| ☁️ **Nodecore** | FiveM hosting community |
+| ☁️ **Nodecore** | Hosting Community |
 
 ---
 
