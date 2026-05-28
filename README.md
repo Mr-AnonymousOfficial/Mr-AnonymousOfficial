@@ -59,18 +59,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-AnonymousOfficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Mr-AnonymousOfficial)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AnonymousOfficial&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mr-AnonymousOfficial)
-
-</div>
-
----
-
 ## 🎯 Focus Areas
 
 - FiveM Server Development
