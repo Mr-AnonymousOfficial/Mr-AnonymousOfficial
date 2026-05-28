@@ -79,6 +79,5 @@
 
 <div align="center">
 
-*Prefer clean, minimal fixes over full rewrites.*
 
 </div>
