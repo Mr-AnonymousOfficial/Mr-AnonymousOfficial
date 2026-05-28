@@ -4,7 +4,7 @@
 
 **FiveM Server Owner & Developer | Lua / JS / Node.js**
 
-*I build custom game server systems, and backend tools — with a focus on clean, minimal solutions.*
+*I build custom game server systems, and backend tools with a focus on clean, minimal solutions.*
 
 📍 Thessaloniki, Greece
 
@@ -72,7 +72,6 @@
 
 - FiveM Server Development
 - ESX Framework Scripting
-- Discord Bot Development
 - Backend Systems & Automation
 - Game Server Infrastructure
 
