@@ -13,5 +13,3 @@
 📍 Based in Thessaloniki, Greece
 
 ---
-
-💡 *Prefer clean, minimal fixes over full rewrites. Copy-paste ready.*
