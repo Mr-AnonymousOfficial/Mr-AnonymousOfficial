@@ -34,13 +34,13 @@
 
 **Development Environment**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Omarchy](https://img.shields.io/badge/Omarchy-111111?style=for-the-badge&logo=archlinux&logoColor=1793D1)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 7](https://img.shields.io/badge/Windows_7-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ---
 
 ## 🚀 What I Build
