@@ -30,7 +30,6 @@
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![oxmysql](https://img.shields.io/badge/oxmysql-grey?style=for-the-badge)
 
 **Development Environment**
 
