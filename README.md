@@ -6,8 +6,6 @@
 
 *I build custom game server systems, and backend tools with a focus on clean, minimal solutions.*
 
-📍 Thessaloniki, Greece
-
 </div>
 
 ---
