@@ -45,9 +45,9 @@
 
 ## 🚀 What I Build
 
-- 🎮 **FiveM ESX Resources** — Society systems, armories, ban panels, jail systems, crafting, BlackMarket mechanics, event minigames, vehicle locks, motel systems & more
-- 🖥️ **NUI Frontends** — Custom in-game HUDs and menus in vanilla JS for FiveM
-- 🗄️ **Node.js / MySQL** backend tools — Staff archive apps, web dashboards, multi-user systems
+- 🎮 **FiveM Servers**
+- 🖥️ **NUI Frontends**
+- 🗄️ **Node.js / MySQL**
 
 ---
 
@@ -56,7 +56,7 @@
 | Project | Description |
 |---|---|
 | ☁️ **Nodecore** | Hosting Community |
-| 🌐 **Dangerous City Reborn V2** | FiveM Community |
+| 🌐 **Dangerous City** | FiveM Community |
 
 ---
 
