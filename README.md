@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm MrAnonymous
 
-**FiveM Server Owner & Developer | Lua / JS / Node.js**
+**FiveM Server Owner & Developer**
 
 *I build custom game server systems, and backend tools with a focus on clean, minimal solutions.*
 
