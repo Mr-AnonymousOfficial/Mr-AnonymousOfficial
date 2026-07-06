@@ -44,9 +44,6 @@
 ## 🚀 What I Build
 
 - 🎮 **FiveM Servers**
-- 🖥️ **NUI Frontends**
-- 🗄️ **Node.js / MySQL**
-
 ---
 
 ## 🌐 Projects
