@@ -17,8 +17,6 @@
 **Frameworks & Platforms**
 
 [![Frameworks & Platforms](https://skillicons.dev/icons?i=electron)](https://skillicons.dev)
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
-![ESX](https://img.shields.io/badge/ESX_Framework-2C2D72?style=for-the-badge)
 
 **Databases**
 
