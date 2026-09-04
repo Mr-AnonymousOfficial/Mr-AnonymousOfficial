@@ -28,7 +28,7 @@
 
 **Development Environment**
 
-[![Development Environment](https://skillicons.dev/icons?i=linux,arch,ubuntu,vscode,git,windows,gcp)](https://skillicons.dev)
+[![Development Environment](https://skillicons.dev/icons?i=linux,arch,ubuntu,vscode,visualstudio,git,windows)](https://skillicons.dev)
 
 ---
 
