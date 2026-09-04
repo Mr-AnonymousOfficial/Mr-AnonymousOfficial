@@ -17,7 +17,6 @@
 **Frameworks & Platforms**
 
 [![Frameworks & Platforms](https://skillicons.dev/icons?i=electron,discord)](https://skillicons.dev)
-![FiveM](https://img.shields.io/badge/FIVEM-F40552?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 **Databases**
 
@@ -44,13 +43,10 @@
 | Project | Description |
 |---|---|
 | ☁️ **Nodecore** | Hosting Community |
-| 🌐 **Dangerous City** | FiveM Community |
 
 ---
 
 ## 🎯 Focus Areas
 
-- FiveM Server Development
-- ESX Framework Scripting
 - Backend Systems & Automation
 - Game Server Infrastructure
