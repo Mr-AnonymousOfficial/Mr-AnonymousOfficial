@@ -47,14 +47,10 @@
 
 | Project | Description |
 |---|---|
-| ☁️ **Nodecore** | Hosting Community |
-| 🌐 **Dangerous City** | FiveM Community |
+| ☁️ **Nodecore** | My Community |
 
 ---
 
 ## 🎯 Focus Areas
-
-- FiveM Server Development
-- ESX Framework Scripting
-- Backend Systems & Automation
+- Backend Systems
 - Game Server Infrastructure
