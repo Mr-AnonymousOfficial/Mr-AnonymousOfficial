@@ -17,7 +17,7 @@
 **Frameworks & Platforms**
 
 [![Frameworks & Platforms](https://skillicons.dev/icons?i=electron,discord)](https://skillicons.dev)
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=cachet&logoColor=white)
+![FiveM](https://img.shields.io/badge/FIVEM-F40552?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 **Databases**
 
